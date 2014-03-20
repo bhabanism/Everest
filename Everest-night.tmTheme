@@ -7,9 +7,9 @@
         <key>colorSpaceName</key>
         <string>sRGB</string>
         <key>name</key>
-        <string>Everest</string>
+        <string>Everest-night</string>
         <key>semanticClass</key>
-        <string>theme.Everest</string>
+        <string>theme.Everest-night</string>
         <key>settings</key>
         <array>
             <dict>
